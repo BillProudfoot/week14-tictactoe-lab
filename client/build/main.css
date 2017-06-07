@@ -1,0 +1,25 @@
+.center {
+  margin: auto;
+  font-size: 4em;
+  width: 6.8em;
+  border: 3px solid hotpink;
+  background-color: yellow;
+  /*padding: 10px;*/
+}
+
+button {
+  margin: 0.1em;
+  height: 2em;
+  width: 2em;
+  background-color: hotpink;
+  color: yellow;
+  font-size: 1em;
+  box-shadow: 2px 2px 3px #000000;
+  text-shadow: 2px 2px 3px #000000;
+}
+
+body {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
